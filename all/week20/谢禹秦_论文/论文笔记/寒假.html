@@ -1,0 +1,37 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <base target="_parent">
+  </head>
+  
+  <body class="ck-content">
+     <h1>寒假</h1>
+
+    <p>任务是看Transformer原理和代码</p>
+    <p>实现Transformer</p>
+    <p>阅读改进的Transformer的结构：lite transformer, reformer</p>
+    <p>&nbsp;</p>
+    <p>想法：</p>
+    <ol>
+      <li><s>patch的窗口移动，分别上下左右移动½然后同时上下移动½</s>
+      </li>
+      <li><s>使用CNN提取每个patch的特征，获得嵌入向量。特别地：每个patch在输入CNN之前可以向外扩展若干像素。</s>
+      </li>
+      <li>可以结合TNT和T2T，共享相邻的word</li>
+    </ol>
+    <p>&nbsp;</p>
+    <figure class="image">
+      <img src="%E5%AF%92%E5%81%87/image.png">
+    </figure>
+    <figure class="image">
+      <img src="%E5%AF%92%E5%81%87/1_image.png">
+    </figure>
+    <figure class="image">
+      <img src="%E5%AF%92%E5%81%87/2_image.png">
+    </figure>
+  </body>
+
+</html>

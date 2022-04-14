@@ -1,0 +1,450 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.50.2",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "MMyFMvoQboAA",
+			"notePath": [
+				"MMyFMvoQboAA"
+			],
+			"title": "寒假",
+			"notePosition": 40,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "lTyIWwk7qSTJ",
+					"isInheritable": false,
+					"position": 1
+				},
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "FCOZ7CuMLzwp",
+					"isInheritable": false,
+					"position": 2
+				},
+				{
+					"type": "relation",
+					"name": "imageLink",
+					"value": "7JDJWsCrn6F5",
+					"isInheritable": false,
+					"position": 3
+				}
+			],
+			"format": "html",
+			"dataFileName": "寒假.html",
+			"dirFileName": "寒假",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "lTyIWwk7qSTJ",
+					"notePath": [
+						"MMyFMvoQboAA",
+						"lTyIWwk7qSTJ"
+					],
+					"title": "image.png",
+					"notePosition": 0,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "image",
+					"mime": "image/png",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "image.png"
+				},
+				{
+					"isClone": false,
+					"noteId": "FCOZ7CuMLzwp",
+					"notePath": [
+						"MMyFMvoQboAA",
+						"FCOZ7CuMLzwp"
+					],
+					"title": "image.png",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "image",
+					"mime": "image/png",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "1_image.png"
+				},
+				{
+					"isClone": false,
+					"noteId": "7JDJWsCrn6F5",
+					"notePath": [
+						"MMyFMvoQboAA",
+						"7JDJWsCrn6F5"
+					],
+					"title": "image.png",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "image",
+					"mime": "image/png",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "originalFileName",
+							"value": "image.png",
+							"isInheritable": false,
+							"position": 1000
+						}
+					],
+					"dataFileName": "2_image.png"
+				},
+				{
+					"isClone": false,
+					"noteId": "HdroaLpcZoRE",
+					"notePath": [
+						"MMyFMvoQboAA",
+						"HdroaLpcZoRE"
+					],
+					"title": "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet arXiv:2101.11986v2",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "3j6ZvmxtLDEj",
+							"isInheritable": false,
+							"position": 1
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "r0vmmRPJVyxV",
+							"isInheritable": false,
+							"position": 2
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "SywigtV43KJb",
+							"isInheritable": false,
+							"position": 3
+						}
+					],
+					"format": "html",
+					"dataFileName": "Tokens-to-Token ViT Training V.html",
+					"dirFileName": "Tokens-to-Token ViT Training Vision Transformers from Scratch on ImageNet arXiv2101.11986v2",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "3j6ZvmxtLDEj",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"HdroaLpcZoRE",
+								"3j6ZvmxtLDEj"
+							],
+							"title": "image.png",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "r0vmmRPJVyxV",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"HdroaLpcZoRE",
+								"r0vmmRPJVyxV"
+							],
+							"title": "image.png",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "1_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "SywigtV43KJb",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"HdroaLpcZoRE",
+								"SywigtV43KJb"
+							],
+							"title": "image.png",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "2_image.png"
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "SLA2ybZuMF7i",
+					"notePath": [
+						"MMyFMvoQboAA",
+						"SLA2ybZuMF7i"
+					],
+					"title": "Transformer in Transformer Kai",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "MXYnOusLhnOg",
+							"isInheritable": false,
+							"position": 1
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "9Y0D33B3Xg7J",
+							"isInheritable": false,
+							"position": 2
+						}
+					],
+					"format": "html",
+					"dataFileName": "Transformer in Transformer Kai.html",
+					"dirFileName": "Transformer in Transformer Kai",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "MXYnOusLhnOg",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"SLA2ybZuMF7i",
+								"MXYnOusLhnOg"
+							],
+							"title": "image.png",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/jpg",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "Inkedtmp-1180-rgwPJnFbEhVT-image_LI.jpg",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "9Y0D33B3Xg7J",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"SLA2ybZuMF7i",
+								"9Y0D33B3Xg7J"
+							],
+							"title": "image.png",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "1_image.png"
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "wX2euLjxIHkM",
+					"notePath": [
+						"MMyFMvoQboAA",
+						"wX2euLjxIHkM"
+					],
+					"title": "CvT: Introducing Convolutions to Vision Transformers arXiv:2103.15808v1",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "gEk8tsJRiZIU",
+							"isInheritable": false,
+							"position": 1
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "loXNbcWJMWlV",
+							"isInheritable": false,
+							"position": 2
+						},
+						{
+							"type": "relation",
+							"name": "imageLink",
+							"value": "XW6IZuHpy8Y3",
+							"isInheritable": false,
+							"position": 3
+						}
+					],
+					"format": "html",
+					"dataFileName": "CvT Introducing Convolutions t.html",
+					"dirFileName": "CvT Introducing Convolutions to Vision Transformers arXiv2103.15808v1",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "gEk8tsJRiZIU",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"wX2euLjxIHkM",
+								"gEk8tsJRiZIU"
+							],
+							"title": "image.png",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "loXNbcWJMWlV",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"wX2euLjxIHkM",
+								"loXNbcWJMWlV"
+							],
+							"title": "image.png",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "1_image.png"
+						},
+						{
+							"isClone": false,
+							"noteId": "XW6IZuHpy8Y3",
+							"notePath": [
+								"MMyFMvoQboAA",
+								"wX2euLjxIHkM",
+								"XW6IZuHpy8Y3"
+							],
+							"title": "image.png",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "image",
+							"mime": "image/png",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "originalFileName",
+									"value": "image.png",
+									"isInheritable": false,
+									"position": 1000
+								}
+							],
+							"dataFileName": "2_image.png"
+						}
+					]
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
