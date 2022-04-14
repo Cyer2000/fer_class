@@ -1,0 +1,13 @@
+python -m torch.distributed.launch --nproc_per_node=1 --use_env main.py --model deit_small_patch16_224 --batch-size 32 --data-path dataset/rafdb
+
+python -m torch.distributed.launch --nproc_per_node=1 --use_env main.py --resume resume\deit_small_patch16_224-cd65a155.pth --model deit_small_patch16_224 --batch-size 32 --data-path dataset/rafdb
+
+
+python -m torch.distributed.launch --nproc_per_node=1 --use_env main.py --resume resume\XXS36_224.pth --model cait_XXS36_224 --batch-size 16 --data-path dataset/rafdb
+
+python -m torch.distributed.launch --nproc_per_node=1 --use_env main.py --model cait_XXS36_224 --batch-size 16 --data-path dataset/rafdb
+
+
+
+python -m torch.distributed.launch --nproc_per_node=1 --use_env main.py --model cait_S24_224 --batch-size 16 --data-path dataset/rafdb
+python -m torch.distributed.launch --nproc_per_node=1 --use_env main.py --resume resume\S24_224.pth --model cait_S24_224 --batch-size 16 --data-path dataset/rafdb
